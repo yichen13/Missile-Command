@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Battery
+comment1.params=newX\ newY
+comment1.target=Battery(int,\ int)
+comment10.params=plane
+comment10.target=boolean\ collides(java.awt.Rectangle)
+comment11.params=g
+comment11.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ rebuild()
+comment3.params=
+comment3.target=java.awt.Point\ getPos()
+comment4.params=
+comment4.target=boolean\ getStatus()
+comment5.params=
+comment5.target=void\ kill()
+comment6.params=mouseX\ mouseY
+comment6.target=boolean\ fire(int,\ int)
+comment7.params=
+comment7.target=boolean\ update()
+comment8.params=e
+comment8.target=boolean\ collides(EnemyMissile)
+comment9.params=e
+comment9.target=boolean\ collidesB(EnemyMissile)
+numComments=12

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HeroMissile
+comment0.text=\r\n\ Abstract\ class\ Missile\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=x\ y\ a\ b
+comment1.target=HeroMissile(int,\ int,\ int,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment2.params=x\ y
+comment2.target=void\ setCurrent(int,\ int)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ calcDistance(double,\ double,\ double,\ double)
+comment4.params=x1\ y1
+comment4.target=double\ calcPDistance(double,\ double)
+comment5.params=
+comment5.target=void\ moveForward()
+comment6.params=
+comment6.target=double\ getDistanceFromTarget()
+numComments=7

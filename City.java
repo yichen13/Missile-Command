@@ -10,8 +10,12 @@ import javax.imageio.ImageIO;
 import java.net.URL;
 import javax.sound.sampled.*;
 
+/**
 
-
+ 
+ * Jay Chandran
+ * @version (a version number or a date)
+ */
 public class City
 {
     // instapoince variables - replace the example below with your own

@@ -1,7 +1,13 @@
+
 import java.awt.geom.*;
 import java.awt.geom.Line2D;
 
-
+/**
+ * Abstract class Missile - write a description of the class here
+ *
+ * @author (your name here)
+ * @version (version number or date here)
+ */
 public class HeroMissile
 {
     // instance variables - replace the example below with your own

@@ -1,3 +1,10 @@
+
+/**
+ * Write a description of class CounterMissile here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
 public class CounterMissile
 {
     // instance variables - replace the example below with your own

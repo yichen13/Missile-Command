@@ -1,9 +1,15 @@
+
 import java.util.Random;
 import java.util.ArrayList;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+/**
+ * Write a description of class eMissile here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
 public class EnemyMissile
 {
     // instance variables - replace the example below with your own
